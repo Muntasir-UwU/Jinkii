@@ -1,63 +1,422 @@
 [
-  { "title": "Afsos", "artist": "Anuv Jain & AP Dhillon", "album": "Afsos (2025)", "song_url": "/Afsos.opus", "thumbnail": "/Afsos.png" },
-  { "title": "Paaro", "artist": "Aditya Rikhari", "album": "Paaro (2024)", "song_url": "/Paaro.opus", "thumbnail": "/Paaro.png" },
-  { "title": "Arz Kiya h x Samjho na x Wishes", "artist": "Anuv Jain, Talwiinder, Hasan Raheem", "album": "Remix (2025)", "song_url": "/Arz.opus", "thumbnail": "/Arz.png" },
-  { "title": "Wishes", "artist": "Hasan Raheem ft. Talwiinder", "album": "Maybe it's Love (2023)", "song_url": "/Hasan.opus", "thumbnail": "/Hasan.png" },
-  { "title": "death bed (coffee for your head)", "artist": "Powfu & beabadoobee", "album": "poems of the past (2020)", "song_url": "/death.opus", "thumbnail": "/death.png" },
-  { "title": "Sahiba", "artist": "Aditya Rikhari", "album": "Sahiba (2023)", "song_url": "/Sahiba.opus", "thumbnail": "/Sahiba.png" },
-  { "title": "Jee Nhi Lagda", "artist": "IAMPRANN", "album": "Jee Nhi Lagda (2024)", "song_url": "/Jee.opus", "thumbnail": "/Jee.png" },
-  { "title": "O Re Saavan", "artist": "Mitraz", "album": "Single (2024)", "song_url": "/Mitraz.opus", "thumbnail": "/Mitraz.png" },
-  { "title": "Alfaazo", "artist": "Mitraz", "album": "Single (2024)", "song_url": "/O.opus", "thumbnail": "/O.png" },
-  { "title": "Husn", "artist": "Anuv Jain", "album": "Husn (2023)", "song_url": "/Husn.opus", "thumbnail": "/Husn.png" },
-  { "title": "Dil Tu Jaan Tu", "artist": "Arunima Sharma", "album": "Single (2025)", "song_url": "/Dil.opus", "thumbnail": "/Dil.png" },
-  { "title": "Par Ab Jo Aayegi Tu", "artist": "AUR", "album": "Single (2025)", "song_url": "/Par.opus", "thumbnail": "/Par.png" },
-  { "title": "Departure Lane", "artist": "Talha Anjum", "album": "My Terrible Mind (2024)", "song_url": "/Departure.opus", "thumbnail": "/Departure.png" },
-  { "title": "Love Me Not", "artist": "Ravyn Lenae", "album": "Bird's Eye (2024)", "song_url": "/Love.opus", "thumbnail": "/Love.png" },
-  { "title": "Ghum", "artist": "Odd Signature", "album": "Ghum (2019)", "song_url": "/Ghum.opus", "thumbnail": "/Ghum.png" },
-  { "title": "Humsafar", "artist": "AUR", "album": "Humsafar (2024)", "song_url": "/Humsafar.opus", "thumbnail": "/Humsafar.png" },
-  { "title": "Zulfein", "artist": "Mehul Mahesh & DJ Aynik", "album": "Single (2025)", "song_url": "/Often.opus", "thumbnail": "/Often.png" },
-  { "title": "Ek Raat (Reprise)", "artist": "JalRaj (Vilen Cover)", "album": "Single (2020)", "song_url": "/Ek.opus", "thumbnail": "/Ek.png" },
-  { "title": "Prom Queen", "artist": "Beach Bunny", "album": "Prom Queen (2018)", "song_url": "/Prince.opus", "thumbnail": "/Prince.png" },
-  { "title": "My Foot", "artist": "Subconscious", "album": "My Foot (2004)", "song_url": "/My.opus", "thumbnail": "/My.png" },
-  { "title": "Bashbo Bhalo", "artist": "Dameer", "album": "Bashbo Bhalo (2022)", "song_url": "/Bashbo.opus", "thumbnail": "/Bashbo.png" },
-  { "title": "TIRKIT DHA", "artist": "Siroyi", "album": "Single (2025)", "song_url": "/TIRKIT.opus", "thumbnail": "/TIRKIT.png" },
-  { "title": "Malang Sajna", "artist": "Sachet-Parampara", "album": "Single (2022)", "song_url": "/Malang.opus", "thumbnail": "/Malang.png" },
-  { "title": "MAMA MA", "artist": "SXLLX", "album": "Single (2025)", "song_url": "/MAMA.opus", "thumbnail": "/MAMA.png" },
-  { "title": "No way to nowhere", "artist": "AUR", "album": "Single (2023)", "song_url": "/No.opus", "thumbnail": "/No.png" },
-  { "title": "Lust", "artist": "Marino ft. Alexandria", "album": "Lust (2025)", "song_url": "/Lust.opus", "thumbnail": "/Lust.png" },
-  { "title": "3 Strikes", "artist": "Terror Jr", "album": "3 Strikes (2016)", "song_url": "/3.opus", "thumbnail": "/3.png" },
-  { "title": "Tere Hawaalay", "artist": "Abdul Hannan", "album": "Single (2022)", "song_url": "/Tere.opus", "thumbnail": "/Tere.png" },
-  { "title": "Nightmare", "artist": "Marino ft. SXLLX", "album": "Single (2025)", "song_url": "/Nightmare.opus", "thumbnail": "/Nightmare.png" },
-  { "title": "Tumi Kothay", "artist": "Arnob", "album": "Single (2023)", "song_url": "/Tumi.opus", "thumbnail": "/Tumi.png" },
-  { "title": "Udaarian", "artist": "Satinder Sartaaj", "album": "Single (2018)", "song_url": "/Udaarian.opus", "thumbnail": "/Udaarian.png" },
-  { "title": "Zara Zara", "artist": "Bombay Jayashri", "album": "Rehnaa Hai Terre Dil Mein", "song_url": "/Zara.opus", "thumbnail": "/Zara.png" },
-  { "title": "Aasa Kooda", "artist": "Sai Abhyankkar", "album": "Single (2024)", "song_url": "/@SaiAbhyankkar.opus", "thumbnail": "/@SaiAbhyankkar.png" },
-  { "title": "Master-D", "artist": "Master-D", "album": "Single", "song_url": "/Master-D.opus", "thumbnail": "/Master-D.png" },
-  { "title": "Flatline", "artist": "Various", "album": "Single", "song_url": "/Flatline.opus", "thumbnail": "/Flatline.png" },
-  { "title": "Diljit Dosanjh", "artist": "Diljit Dosanjh", "album": "Single", "song_url": "/Diljit.opus", "thumbnail": "/Diljit.png" },
-  { "title": "LilaBali(Muza)", "artist": "Muza", "album": "Single", "song_url": "/Muza.opus", "thumbnail": "/Muza.png" },
-  { "title": "Bashbo", "artist": "Various", "album": "Single", "song_url": "/Bashbo.opus", "thumbnail": "/Bashbo.png" },
-  { "title": "Master-D", "artist": "Master-D", "album": "Single", "song_url": "/Master-D.opus", "thumbnail": "/Master-D.png" },
-  { "title": "Mitraz", "artist": "Mitraz", "album": "Single", "song_url": "/Mitraz.opus", "thumbnail": "/Mitraz.png" },
-  { "title": "Often", "artist": "The Weeknd", "album": "Beauty Behind Madness", "song_url": "/Often.opus", "thumbnail": "/Often.png" },
-  { "title": "Olivia Rodrigo", "artist": "Olivia Rodrigo", "album": "Single", "song_url": "/Olivia.opus", "thumbnail": "/Olivia.png" },
-  { "title": "Powfu", "artist": "Powfu", "album": "Single", "song_url": "/Powfu.opus", "thumbnail": "/Powfu.png" },
-  { "title": "Prostab", "artist": "Various", "album": "Single", "song_url": "/Prostab.opus", "thumbnail": "/Prostab.png" },
-  { "title": "Samjhawan", "artist": "Arijit Singh", "album": "Single", "song_url": "/Samjhawan.opus", "thumbnail": "/Samjhawan.png" },
-  { "title": "Tum Hi Ho", "artist": "Arijit Singh", "album": "Aashiqui 2", "song_url": "/Tum.opus", "thumbnail": "/Tum.png" },
-  { "title": "Vietsub", "artist": "Various", "album": "Single", "song_url": "/Vietsub.opus", "thumbnail": "/Vietsub.png" },
-  { "title": "XXXTENTACION", "artist": "XXXTENTACION", "album": "Single", "song_url": "/XXXTENTACION.opus", "thumbnail": "/XXXTENTACION.png" },
-  { "title": "Sufr", "artist": "Various", "album": "Single", "song_url": "/sufr.opus", "thumbnail": "/sufr.png" },
-  { "title": "Ohe Shyam", "artist": "Traditional", "album": "Folk", "song_url": "/ওহে.opus", "thumbnail": "/ওহে.png" },
-  { "title": "Bhromor", "artist": "Traditional", "album": "Folk", "song_url": "/Bhromor.opus", "thumbnail": "/Bhromor.png" },
-  { "title": "Bishrut", "artist": "Various", "album": "Single", "song_url": "/Bishrut.opus", "thumbnail": "/Bishrut.png" },
-  { "title": "Die For You", "artist": "The Weeknd", "album": "Starboy", "song_url": "/Die.opus", "thumbnail": "/Die.png" },
-  { "title": "All Type", "artist": "Various", "album": "Single", "song_url": "/ALL.opus", "thumbnail": "/ALL.png" },
-  { "title": "Abdul", "artist": "Various", "album": "Single", "song_url": "/Abdul.opus", "thumbnail": "/Abdul.png" },
-  { "title": "Andho", "artist": "Various", "album": "Single", "song_url": "/Andho.opus", "thumbnail": "/Andho.png" },
-  { "title": "Anuv Jain Collection", "artist": "Anuv Jain", "album": "Collection", "song_url": "/Anuv.opus", "thumbnail": "/Anuv.png" },
-  { "title": "Badshah", "artist": "Badshah", "album": "Single", "song_url": "/Badshah.opus", "thumbnail": "/Badshah.png" },
-  { "title": "Cupid's Chokehold", "artist": "Gym Class Heroes", "album": "Single", "song_url": "/Cupid's.opus", "thumbnail": "/fav.jpg" },
-  { "title": "Dhruv", "artist": "Dhruv", "album": "Single", "song_url": "/Dhruv.opus", "thumbnail": "/Dhruv.png" },
-  { "title": "Maanu", "artist": "Maanu", "album": "Single", "song_url": "/Maanu,.opus", "thumbnail": "/Maanu,.png" }
+  {
+    "title": "Afsos",
+    "artist": "Anuv Jain & AP Dhillon",
+    "album": "Afsos (2025)",
+    "song_url": "./Afsos.opus",
+    "thumbnail": "./Afsos.png"
+  },
+  {
+    "title": "Paaro",
+    "artist": "Aditya Rikhari",
+    "album": "Paaro (2024)",
+    "song_url": "./Paaro.opus",
+    "thumbnail": "./Paaro.png"
+  },
+  {
+    "title": "Arz Kiya h x Samjho na x Wishes",
+    "artist": "Anuv Jain, Talwiinder, Hasan Raheem",
+    "album": "Remix (2025)",
+    "song_url": "./Arz.opus",
+    "thumbnail": "./Arz.png"
+  },
+  {
+    "title": "Wishes",
+    "artist": "Hasan Raheem ft. Talwiinder",
+    "album": "Maybe it's Love (2023)",
+    "song_url": "./Hasan.opus",
+    "thumbnail": "./Hasan.png"
+  },
+  {
+    "title": "death bed (coffee for your head)",
+    "artist": "Powfu & beabadoobee",
+    "album": "poems of the past (2020)",
+    "song_url": "./death.opus",
+    "thumbnail": "./death.png"
+  },
+  {
+    "title": "Sahiba",
+    "artist": "Aditya Rikhari",
+    "album": "Sahiba (2023)",
+    "song_url": "./Sahiba.opus",
+    "thumbnail": "./Sahiba.png"
+  },
+  {
+    "title": "Jee Nhi Lagda",
+    "artist": "IAMPRANN",
+    "album": "Jee Nhi Lagda (2024)",
+    "song_url": "./Jee.opus",
+    "thumbnail": "./Jee.png"
+  },
+  {
+    "title": "O Re Saavan",
+    "artist": "Mitraz",
+    "album": "Single (2024)",
+    "song_url": "./Mitraz.opus",
+    "thumbnail": "./Mitraz.png"
+  },
+  {
+    "title": "Alfaazo",
+    "artist": "Mitraz",
+    "album": "Single (2024)",
+    "song_url": "./O.opus",
+    "thumbnail": "./O.png"
+  },
+  {
+    "title": "Husn",
+    "artist": "Anuv Jain",
+    "album": "Husn (2023)",
+    "song_url": "./Husn.opus",
+    "thumbnail": "./Husn.png"
+  },
+  {
+    "title": "Dil Tu Jaan Tu",
+    "artist": "Arunima Sharma",
+    "album": "Single (2025)",
+    "song_url": "./Dil.opus",
+    "thumbnail": "./Dil.png"
+  },
+  {
+    "title": "Par Ab Jo Aayegi Tu",
+    "artist": "AUR",
+    "album": "Single (2025)",
+    "song_url": "./Par.opus",
+    "thumbnail": "./Par.png"
+  },
+  {
+    "title": "Departure Lane",
+    "artist": "Talha Anjum",
+    "album": "My Terrible Mind (2024)",
+    "song_url": "./Departure.opus",
+    "thumbnail": "./Departure.png"
+  },
+  {
+    "title": "Love Me Not",
+    "artist": "Ravyn Lenae",
+    "album": "Bird's Eye (2024)",
+    "song_url": "./Love.opus",
+    "thumbnail": "./Love.png"
+  },
+  {
+    "title": "Ghum",
+    "artist": "Odd Signature",
+    "album": "Ghum (2019)",
+    "song_url": "./Ghum.opus",
+    "thumbnail": "./Ghum.png"
+  },
+  {
+    "title": "Humsafar",
+    "artist": "AUR",
+    "album": "Humsafar (2024)",
+    "song_url": "./Humsafar.opus",
+    "thumbnail": "./Humsafar.png"
+  },
+  {
+    "title": "Zulfein",
+    "artist": "Mehul Mahesh & DJ Aynik",
+    "album": "Single (2025)",
+    "song_url": "./Often.opus",
+    "thumbnail": "./Often.png"
+  },
+  {
+    "title": "Ek Raat (Reprise)",
+    "artist": "JalRaj (Vilen Cover)",
+    "album": "Single (2020)",
+    "song_url": "./Ek.opus",
+    "thumbnail": "./Ek.png"
+  },
+  {
+    "title": "Prom Queen",
+    "artist": "Beach Bunny",
+    "album": "Prom Queen (2018)",
+    "song_url": "./Prince.opus",
+    "thumbnail": "./Prince.png"
+  },
+  {
+    "title": "My Foot",
+    "artist": "Subconscious",
+    "album": "My Foot (2004)",
+    "song_url": "./My.opus",
+    "thumbnail": "./My.png"
+  },
+  {
+    "title": "Bashbo Bhalo",
+    "artist": "Dameer",
+    "album": "Bashbo Bhalo (2022)",
+    "song_url": "./Bashbo.opus",
+    "thumbnail": "./Bashbo.png"
+  },
+  {
+    "title": "TIRKIT DHA",
+    "artist": "Siroyi",
+    "album": "Single (2025)",
+    "song_url": "./TIRKIT.opus",
+    "thumbnail": "./TIRKIT.png"
+  },
+  {
+    "title": "Malang Sajna",
+    "artist": "Sachet-Parampara",
+    "album": "Single (2022)",
+    "song_url": "./Malang.opus",
+    "thumbnail": "./Malang.png"
+  },
+  {
+    "title": "MAMA MA",
+    "artist": "SXLLX",
+    "album": "Single (2025)",
+    "song_url": "./MAMA.opus",
+    "thumbnail": "./MAMA.png"
+  },
+  {
+    "title": "No way to nowhere",
+    "artist": "AUR",
+    "album": "Single (2023)",
+    "song_url": "./No.opus",
+    "thumbnail": "./No.png"
+  },
+  {
+    "title": "Lust",
+    "artist": "Marino ft. Alexandria",
+    "album": "Lust (2025)",
+    "song_url": "./Lust.opus",
+    "thumbnail": "./Lust.png"
+  },
+  {
+    "title": "3 Strikes",
+    "artist": "Terror Jr",
+    "album": "3 Strikes (2016)",
+    "song_url": "./3.opus",
+    "thumbnail": "./3.png"
+  },
+  {
+    "title": "Tere Hawaalay",
+    "artist": "Abdul Hannan",
+    "album": "Single (2022)",
+    "song_url": "./Tere.opus",
+    "thumbnail": "./Tere.png"
+  },
+  {
+    "title": "Nightmare",
+    "artist": "Marino ft. SXLLX",
+    "album": "Single (2025)",
+    "song_url": "./Nightmare.opus",
+    "thumbnail": "./Nightmare.png"
+  },
+  {
+    "title": "Tumi Kothay",
+    "artist": "Arnob",
+    "album": "Single (2023)",
+    "song_url": "./Tumi.opus",
+    "thumbnail": "./Tumi.png"
+  },
+  {
+    "title": "Udaarian",
+    "artist": "Satinder Sartaaj",
+    "album": "Single (2018)",
+    "song_url": "./Udaarian.opus",
+    "thumbnail": "./Udaarian.png"
+  },
+  {
+    "title": "Zara Zara",
+    "artist": "Bombay Jayashri",
+    "album": "Rehnaa Hai Terre Dil Mein",
+    "song_url": "./Zara.opus",
+    "thumbnail": "./Zara.png"
+  },
+  {
+    "title": "Aasa Kooda",
+    "artist": "Sai Abhyankkar",
+    "album": "Single (2024)",
+    "song_url": "./@SaiAbhyankkar.opus",
+    "thumbnail": "./@SaiAbhyankkar.png"
+  },
+  {
+    "title": "Master-D",
+    "artist": "Master-D",
+    "album": "Single",
+    "song_url": "./Master-D.opus",
+    "thumbnail": "./Master-D.png"
+  },
+  {
+    "title": "Flatline",
+    "artist": "Various",
+    "album": "Single",
+    "song_url": "./Flatline.opus",
+    "thumbnail": "./Flatline.png"
+  },
+  {
+    "title": "Diljit Dosanjh",
+    "artist": "Diljit Dosanjh",
+    "album": "Single",
+    "song_url": "./Diljit.opus",
+    "thumbnail": "./Diljit.png"
+  },
+  {
+    "title": "LilaBali(Muza)",
+    "artist": "Muza",
+    "album": "Single",
+    "song_url": "./Muza.opus",
+    "thumbnail": "./Muza.png"
+  },
+  {
+    "title": "Bashbo",
+    "artist": "Various",
+    "album": "Single",
+    "song_url": "./Bashbo.opus",
+    "thumbnail": "./Bashbo.png"
+  },
+  {
+    "title": "Mitraz",
+    "artist": "Mitraz",
+    "album": "Single",
+    "song_url": "./Mitraz.opus",
+    "thumbnail": "./Mitraz.png"
+  },
+  {
+    "title": "Often",
+    "artist": "The Weeknd",
+    "album": "Beauty Behind Madness",
+    "song_url": "./Often.opus",
+    "thumbnail": "./Often.png"
+  },
+  {
+    "title": "Olivia Rodrigo",
+    "artist": "Olivia Rodrigo",
+    "album": "Single",
+    "song_url": "./Olivia.opus",
+    "thumbnail": "./Olivia.png"
+  },
+  {
+    "title": "Powfu",
+    "artist": "Powfu",
+    "album": "Single",
+    "song_url": "./Powfu.opus",
+    "thumbnail": "./Powfu.png"
+  },
+  {
+    "title": "Prostab",
+    "artist": "Various",
+    "album": "Single",
+    "song_url": "./Prostab.opus",
+    "thumbnail": "./Prostab.png"
+  },
+  {
+    "title": "Samjhawan",
+    "artist": "Arijit Singh",
+    "album": "Single",
+    "song_url": "./Samjhawan.opus",
+    "thumbnail": "./Samjhawan.png"
+  },
+  {
+    "title": "Tum Hi Ho",
+    "artist": "Arijit Singh",
+    "album": "Aashiqui 2",
+    "song_url": "./Tum.opus",
+    "thumbnail": "./Tum.png"
+  },
+  {
+    "title": "Vietsub",
+    "artist": "Various",
+    "album": "Single",
+    "song_url": "./Vietsub.opus",
+    "thumbnail": "./Vietsub.png"
+  },
+  {
+    "title": "XXXTENTACION",
+    "artist": "XXXTENTACION",
+    "album": "Single",
+    "song_url": "./XXXTENTACION.opus",
+    "thumbnail": "./XXXTENTACION.png"
+  },
+  {
+    "title": "Sufr",
+    "artist": "Various",
+    "album": "Single",
+    "song_url": "./sufr.opus",
+    "thumbnail": "./sufr.png"
+  },
+  {
+    "title": "Ohe Shyam",
+    "artist": "Traditional",
+    "album": "Folk",
+    "song_url": "./ওহে.opus",
+    "thumbnail": "./ওহে.png"
+  },
+  {
+    "title": "Bhromor",
+    "artist": "Traditional",
+    "album": "Folk",
+    "song_url": "./Bhromor.opus",
+    "thumbnail": "./Bhromor.png"
+  },
+  {
+    "title": "Bishrut",
+    "artist": "Various",
+    "album": "Single",
+    "song_url": "./Bishrut.opus",
+    "thumbnail": "./Bishrut.png"
+  },
+  {
+    "title": "Die For You",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "song_url": "./Die.opus",
+    "thumbnail": "./Die.png"
+  },
+  {
+    "title": "All Type",
+    "artist": "Various",
+    "album": "Single",
+    "song_url": "./ALL.opus",
+    "thumbnail": "./ALL.png"
+  },
+  {
+    "title": "Abdul",
+    "artist": "Various",
+    "album": "Single",
+    "song_url": "./Abdul.opus",
+    "thumbnail": "./Abdul.png"
+  },
+  {
+    "title": "Andho",
+    "artist": "Various",
+    "album": "Single",
+    "song_url": "./Andho.opus",
+    "thumbnail": "./Andho.png"
+  },
+  {
+    "title": "Anuv Jain Collection",
+    "artist": "Anuv Jain",
+    "album": "Collection",
+    "song_url": "./Anuv.opus",
+    "thumbnail": "./Anuv.png"
+  },
+  {
+    "title": "Badshah",
+    "artist": "Badshah",
+    "album": "Single",
+    "song_url": "./Badshah.opus",
+    "thumbnail": "./Badshah.png"
+  },
+  {
+    "title": "Cupid's Chokehold",
+    "artist": "Gym Class Heroes",
+    "album": "Single",
+    "song_url": "./Cupid's.opus",
+    "thumbnail": "./fav.jpg"
+  },
+  {
+    "title": "Dhruv",
+    "artist": "Dhruv",
+    "album": "Single",
+    "song_url": "./Dhruv.opus",
+    "thumbnail": "./Dhruv.png"
+  },
+  {
+    "title": "Maanu",
+    "artist": "Maanu",
+    "album": "Single",
+    "song_url": "./Maanu,.opus",
+    "thumbnail": "./Maanu,.png"
+  }
 ]
