@@ -74,5 +74,15 @@
   { "id": 73, "title": "Kashmir Main Tu Kanyakumari", "artist": "Arijit Singh, Neeti Mohan, Sunidhi Chauhan", "album": "Chennai Express", "color": "#ff9800", "thumb": "https://raw.githubusercontent.com/Muntasir-UwU/Assests/main/Kashmir%20Main%20Tu%20Kanyakumari%20(Lyrics)%20-%20Arijit%20Singh,%20Neeti%20Mohan,%20Sunidhi%20Chauhan%20[2dLi1KrR984].png", "url": "https://raw.githubusercontent.com/Muntasir-UwU/Assests/main/Kashmir%20Main%20Tu%20Kanyakumari%20(Lyrics)%20-%20Arijit%20Singh,%20Neeti%20Mohan,%20Sunidhi%20Chauhan%20[2dLi1KrR984].opus" },
   { "id": 74, "title": "Koi Naa", "artist": "Shreya Ghoshal & Harnoor", "album": "Bhool Chuk Maaf", "color": "#9c27b0", "thumb": "https://raw.githubusercontent.com/Muntasir-UwU/Assests/main/Koi%20Naa%20%EF%BD%9C%20Bhool%20Chuk%20Maaf%20%EF%BD%9C%20Rajkummar%20Rao,%20Wamiqa%20Gabbi%20%EF%BD%9C%20Tanishk,%20Irshad,%20Shreya,%20Harnoor,%20Gifty%20[jdqUfW21vAY].png", "url": "https://raw.githubusercontent.com/Muntasir-UwU/Assests/main/Koi%20Naa%20%EF%BD%9C%20Bhool%20Chuk%20Maaf%20%EF%BD%9C%20Rajkummar%20Rao,%20Wamiqa%20Gabbi%20%EF%BD%9C%20Tanishk,%20Irshad,%20Shreya,%20Harnoor,%20Gifty%20[jdqUfW21vAY].opus" },
   { "id": 75, "title": "Maya", "artist": "Billi", "album": "Single", "color": "#4caf50", "thumb": "https://raw.githubusercontent.com/Muntasir-UwU/Assests/main/Maya%20[Ee2LaM9638w].png", "url": "https://raw.githubusercontent.com/Muntasir-UwU/Assests/main/Maya%20[Ee2LaM9638w].opus" },
-  { "id": 76, "title": "Udi Udi", "artist": "Billi", "album": "Single", "color": "#fbc02d", "thumb": "https://raw.githubusercontent.com/Muntasir-UwU/Assests/main/Udi%20Udi%20[SBOwcGnwuKM].png", "url": "https://raw.githubusercontent.com/Muntasir-UwU/Assests/main/Udi%20Udi%20[SBOwcGnwuKM].opus" }
+  { "id": 76, "title": "Udi Udi", "artist": "Billi", "album": "Single", "color": "#fbc02d", "thumb": "https://raw.githubusercontent.com/Muntasir-UwU/Assests/main/Udi%20Udi%20[SBOwcGnwuKM].png", "url": "https://raw.githubusercontent.com/Muntasir-UwU/Assests/main/Udi%20Udi%20[SBOwcGnwuKM].opus" },
+	{
+  "id": 77,
+  "title": "Alo Alo",
+  "artist": "Tahsan",
+  "album": "Single",
+  "color": "#3e2723",
+  "thumb": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/ab67616d0000b273dc272f66aad69883c1251d68.jpeg",
+  "url": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/a38e89b7e02295f2132236dbbd8893fcc9316537/01%20-%20Tahsan%20-%20Alo%20(music.com.bd).mp3"
+}
+
 ]
