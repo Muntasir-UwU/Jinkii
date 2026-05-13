@@ -137,7 +137,26 @@
   "color": "#f06292",
   "thumb": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/Preet%20Re%20-%20(Lyrics)%20Darshan%20Raval%2C%20Jonita%20Gandhi%20%26%20Rochak%20Kohli%20%EF%BD%9C%20Dhadak%202%20%5BViIDLLSFrCA%5D.png",
   "url": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/Preet%20Re%20-%20(Lyrics)%20Darshan%20Raval%2C%20Jonita%20Gandhi%20%26%20Rochak%20Kohli%20%EF%BD%9C%20Dhadak%202%20%5BViIDLLSFrCA%5D.opus"
-}
+},
+  {
+    "id": 84,
+    "title": "ALAG AASMAAN",
+    "artist": "Anuv Jain",
+    "album": "Single",
+    "color": "#90caf9",
+    "thumb": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/Anuv%20Jain%20-%20ALAG%20AASMAAN%20(a%20song%20on%20the%20ukulele)%20%5BvA86QFrXoho%5D.png",
+    "url": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/Anuv%20Jain%20-%20ALAG%20AASMAAN%20(a%20song%20on%20the%20ukulele)%20%5BvA86QFrXoho%5D.opus"
+  },
+  {
+    "id": 85,
+    "title": "Bairan",
+    "artist": "Banjaare",
+    "album": "Single",
+    "color": "#5d4037",
+    "thumb": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/Banjaare%20-%20Bairan%20(Lyrics)%20%5Bu5e4nsM-ql8%5D.png",
+    "url": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/Banjaare%20-%20Bairan%20(Lyrics)%20%5Bu5e4nsM-ql8%5D.opus"
+  }
+
 
 
 ]
