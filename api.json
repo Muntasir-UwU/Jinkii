@@ -164,8 +164,42 @@
   "color": "#b71c1c",
   "thumb": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/Kalank%20-%20Arijit%20Singh%20(Lyrics)%20%EF%BD%9C%20Lyrical%20Bam%20Hindi%20%5Bk6dGN3azeqo%5D.png",
   "url": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/Kalank%20-%20Arijit%20Singh%20(Lyrics)%20%EF%BD%9C%20Lyrical%20Bam%20Hindi%20%5Bk6dGN3azeqo%5D.opus"
-}
-
-
+},
+  {
+    "id": 87,
+    "title": "10 E 10",
+    "artist": "Unknown",
+    "album": "Single",
+    "color": "#212121",
+    "thumb": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/10%20E%2010%20%5BaUkbIqueyqM%5D.png",
+    "url": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/10%20E%2010%20%5BaUkbIqueyqM%5D.opus"
+  },
+  {
+    "id": 88,
+    "title": "Keh De",
+    "artist": "Banjaare",
+    "album": "Single",
+    "color": "#3e2723",
+    "thumb": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/Keh%20de%20-%20Banjaare%20I%20(Official%20Video)%20%5BWX2uG8TkrGg%5D.png",
+    "url": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/Keh%20de%20-%20Banjaare%20I%20(Official%20Video)%20%5BWX2uG8TkrGg%5D.opus"
+  },
+  {
+    "id": 89,
+    "title": "MAWLANA",
+    "artist": "Tajwar",
+    "album": "Single",
+    "color": "#004d40",
+    "thumb": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/MAWLANA%20(%E0%A6%AE%E0%A6%BE%E0%A6%93%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A6%BE)%20-%20Tajwar%20(official%20audio)%20%5BFyP49C0IxNQ%5D.png",
+    "url": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/MAWLANA%20(%E0%A6%AE%E0%A6%BE%E0%A6%93%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A6%BE)%20-%20Tajwar%20(official%20audio)%20%5BFyP49C0IxNQ%5D.opus"
+  },
+  {
+    "id": 90,
+    "title": "TAUBA",
+    "artist": "Shibu",
+    "album": "Fresh Sound",
+    "color": "#bf360c",
+    "thumb": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/Shibu%20-%20TAUBA%20(Official%20Lyric%20Video)%20%EF%BD%9C%20%23freshsound%20%5BEBXHe2mHDI0%5D.png",
+    "url": "https://raw.githubusercontent.com/Muntasir-UwU/Jinkii/main/Shibu%20-%20TAUBA%20(Official%20Lyric%20Video)%20%EF%BD%9C%20%23freshsound%20%5BEBXHe2mHDI0%5D.opus"
+  }
 
 ]
